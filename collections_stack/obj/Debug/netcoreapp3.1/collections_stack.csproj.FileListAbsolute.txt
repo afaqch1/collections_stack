@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.exe
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.deps.json
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.runtimeconfig.json
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.dll
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\bin\Debug\netcoreapp3.1\collections_stack.pdb
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.dll
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.pdb
+C:\Users\Techverx\source\repos\collections_stack\collections_stack\obj\Debug\netcoreapp3.1\collections_stack.genruntimeconfig.cache
